@@ -1,0 +1,43 @@
+{
+    "name": "CF-Statvoo",
+    "description": "This app lets you deploy your Statvoo analytics JavaScript on a CloudFlare-powered site.",
+    "keywords" : [
+        "analytics"
+        ],
+    "version": "0.0.1",
+    "contributors": [
+    {
+        "name" : "Andrew Odendaal",
+        "email" : "andrew@statvoo.com"
+    }
+    ],
+        "repository" : {
+            "type" : "git",
+            "url" : "https://github.com/Statvoo/cfstatvoo.git"
+        },
+        "main" : "./public/javascripts/statvoo.js",
+        "dependencies" : {
+        },
+        "licenses" : [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+		}],
+        "implements" : "AMD",
+        "scripts" : {
+        },
+        "config" : {
+            "assets" : {
+                "logos" : {
+                    "200px": "./public/images/statvoo_logo-200.png",
+                    "132px": "./public/images/statvoo_logo-132.png"
+                }
+            },
+            "payment": {},
+            "details": {
+               "Category": "Analytics",
+               "Language": "English",
+               "Restrictions": "None"
+           }
+        }
+}
