@@ -5,12 +5,11 @@
         "analytics"
         ],
     "version": "0.0.1",
-    "contributors": [
-    {
+    "category": "analytics",
+    "contributors": [{
         "name" : "Andrew Odendaal",
         "email" : "andrew@statvoo.com"
-    }
-    ],
+    }],
         "repository" : {
             "type" : "git",
             "url" : "https://github.com/Statvoo/cfstatvoo.git"
