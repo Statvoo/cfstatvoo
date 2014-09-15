@@ -1,5 +1,5 @@
 {
-    "name": "statvoo",
+    "name": "Statvoo is Realtime Website Analytics",
     "description": "This app lets you deploy your Statvoo analytics JavaScript on a CloudFlare-powered site.",
     "keywords" : [
         "analytics"
