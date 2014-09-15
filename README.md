@@ -1,4 +1,4 @@
-cfstatvoo
+Statvoo for Cloudflare.com
 ========
 
-Statvoo analytics code placement as a CloudFlare App.
+The Official Cloudflare Statvoo Integration
